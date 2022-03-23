@@ -1,0 +1,43 @@
+.info {
+  border: 4px #3882f6; 
+  flex:1;
+}
+.flex-container div {
+  height: 500px;
+  display: flex;
+}
+
+.top {
+  background: #1f2937;
+}
+
+.middle {
+  background: #ffffff;
+}
+
+.quote {
+  background: #E5E7EB;
+  font: 36px, italic, #1F2937, lighter;
+  font-size: 200px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+.bottom {
+  background: #ffffff;
+}
+
+.footer {
+  background: #1f2937;
+}
+
+.info div{
+    background: #ffffff;
+    height: 100px;
+    flex-direction: row;
+    height: 80px;
+    flex: 1 1 auto;
+    border: 4px #3882f6;
+    display: flex;
+}
